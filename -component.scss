@@ -201,3 +201,14 @@
   color: var(--color-grey-dark-4);
   padding: 2.5rem;
 }
+
+//////////////////////////////
+/// LEGAL TEXT
+.gallary{
+    display: flex;  
+
+  &__photo{
+    width: 100%;
+    display: block;
+  }
+}
